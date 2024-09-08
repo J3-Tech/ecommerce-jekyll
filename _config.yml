@@ -143,5 +143,5 @@ collections:
 #
 category_archive:
   path: /blog/category/
-gems:
-  - jemoji
+# gems:
+#   - jemoji
