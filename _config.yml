@@ -44,7 +44,7 @@ nav:
 url:         http://www.nortbotics.com
 source:      .
 destination: ./_site
-plugins:     ./_plugins
+#plugins:     ./_plugins
 layouts:     ./_layouts
 include:     ['.htaccess']
 exclude:     []
